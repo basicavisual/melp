@@ -50,7 +50,7 @@ Why not focus in the arrive there functionality? Because there is heavy competit
 
 I went through a short concept and branding sprint. Here are my explorations:
 
-![](img/concept.svg)
+![](img/concept.png)
 
 I later went through a UX/UI sprint which I iterated in the final form.
 
