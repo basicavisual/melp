@@ -66,7 +66,7 @@ Initially, stories/articles weren't part of the UI, however, due to the small am
 
 ## The technology
 
-The backend for this app is very simple and the logic is simple as well, so it didn't made sense to use a big framework for this. Therefore I chose Sinatra, which is a rack-based framework written in ruby that let's you start an app from scratch, creating every single line of code that you will need manually, versus other frameworks which require the creation of a bunch of starter files that obscure the MVC development for simple cases. Sinatra is very lightweight but also scalable. Although it had been on my list for a while, I never had the opportunity to use it so this was the perfect excuse. During the course of the week I learned the basics and built the app from there.
+The backend for this app is very simple and the logic is simple as well, so it didn't made sense to use a big framework for this. Therefore I chose [Sinatra](http://sinatrarb.com/), which is a rack-based framework written in ruby that let's you start an app from scratch, creating every single line of code that you will need manually, versus other frameworks which require the creation of a bunch of starter files that obscure the MVC development for simple cases. Sinatra is very lightweight but also scalable. Although it had been on my list for a while, I never had the opportunity to use it so this was the perfect excuse. During the course of the week I learned the basics and built the app from there.
 
 You can check the repo [here](https://github.com/ponentesincausa/melp-app).
 
