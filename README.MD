@@ -1,3 +1,6 @@
+![melp logo](img/logo.png)
+
+
 # melp
 
 > My philosophy is that design must follow function, function must follow technology (tech in the ample sense), technology must follow the process, and process follows the problem. And if possible, the problem follows the root of the problem. Each product, therefore, must begin with the analysis of the problem.
